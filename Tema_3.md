@@ -91,8 +91,7 @@ else:
 ```
 
 ### Результат.
-![image](https://github.com/user-attachments/assets/45b3e6b0-c151-4ce2-852a-24b75ad283e7)
-
+![image](https://github.com/user-attachments/assets/42fd478d-9da3-4046-b75a-07379aa222df)
 
 ### Выводы.
 этот код продолжение препдыщего, но в нем еще проверяется четность или нечетность переменной.
@@ -115,7 +114,7 @@ for i in range(10):
         break
 ```
 ### Результат.
-![image](https://github.com/user-attachments/assets/068ea573-00e4-4d56-aa09-8b3cd8121092)
+![image](https://github.com/user-attachments/assets/3b9e1aac-af98-4416-be24-7fdcc6d6cbdd)
 
 ### Выводы.
 этот цикл показывает к чему пренадлежит число
@@ -137,7 +136,7 @@ else:
 ```
 
 ### Результат.
-![image](https://github.com/user-attachments/assets/fdd9cba2-8b51-4f6e-9798-a37401d56207)
+![image](https://github.com/user-attachments/assets/735d4537-522e-4a41-ab60-95e76c5e097b)
 
 ### Выводы.
 данный код определяет есть ли симфол в строке и показывает позицию его.
@@ -158,8 +157,8 @@ for i in range(max,3,-1):
         print(i, " - simple")
 ```
 ### Результат
+![image](https://github.com/user-attachments/assets/253ed75a-3989-499e-a890-659d7d7ccec0)
 
-![image](https://github.com/user-attachments/assets/edb8986e-73e9-45bd-b49e-2d33f22e2157)
 
 
 ## Лабараторная работа 8
@@ -178,7 +177,7 @@ while value <100:
     print(value)
 ```
 ### Результат
-![image](https://github.com/user-attachments/assets/f2012821-92fd-4b12-ae52-8d989d1b7214)
+![image](https://github.com/user-attachments/assets/41f2b4ab-f6c5-4034-8560-2cd823c53687)
 
 ## Лабараторная работа 9
 
@@ -194,7 +193,7 @@ for i in range(20):
 print(value)
 ```
 ### Результат
-![image](https://github.com/user-attachments/assets/ab5c1f5e-0255-472e-894a-92f16904c65f)
+![image](https://github.com/user-attachments/assets/fbde44b6-204e-4957-a3fd-75ed2fb5e1d7)
 
 
 ## Лабараторная работа 10
@@ -213,7 +212,7 @@ if flag is True:
 else: print("Array has only even numbers")
 ```
 ### Результат
-![image](https://github.com/user-attachments/assets/7b8ba01b-c324-486d-a66c-2884bf1d2d8d)
+![image](https://github.com/user-attachments/assets/457f16c8-3f46-4ba3-8af5-0ec6fa094f2b)
 
 # Самостоятельные работы
 
@@ -238,7 +237,8 @@ for i in range(100):
 
 ### Результат
 
-![image](https://github.com/user-attachments/assets/df9c6bfe-b31d-475a-8596-811eed992e8e)
+![image](https://github.com/user-attachments/assets/a23fe97c-4aaf-4e95-aeee-0298bbd5a11f)
+
 
 ## Краткий вывод:
 В программе создаётся переменная х, которой присваивается значение 1. Затем запускается цикл for, как этого требует ТЗ, на 100 шагов, так как изначально неизвестно сколько шагов должна выполнить программа. Затем в цикле каждый шаг переменная х сперва умножается на 5, потом к результату прибавлсяется 1, а так же происходит проверка на результат. Как только переменная х становится равной 31, она выводится в консоль, а цикл прекращается.
@@ -254,7 +254,8 @@ for i in range(len(x)-1, -1, -1):
 
 ### Результат
 
-![image](https://github.com/user-attachments/assets/d73d0cda-6aea-45e0-a937-23593c4e5502)
+![image](https://github.com/user-attachments/assets/9d363ee4-ca75-477b-815c-f771c2ccc979)
+
 
 ## Краткий вывод:
 В первой строке кода создаётся переменная х, в которую записывается исходная строчка, затем запускается цикл for, в котором переменной i присваиваются значения, начиная с длины строчки, уменьшенной на 1, вплоть до 0. Переменная i используется для вывода символа с определённым индексом из переменной х.
@@ -277,8 +278,7 @@ else: print(x, " 4 to 6")
 ```
 
 ### Результат
-
-![image](https://github.com/user-attachments/assets/bc11c0bf-7266-4133-affb-da7225c9a0ae)
+![image](https://github.com/user-attachments/assets/5bc69da3-5e8f-408e-93f0-bb1e5e598c0e)
 
 ## Краткий вывод:
 
@@ -319,9 +319,9 @@ else:
 
 ### Результаты
 
-![image](https://github.com/user-attachments/assets/8c711266-d761-4634-b8ce-6b045309c520)
-![image](https://github.com/user-attachments/assets/fa180031-1ea3-4463-9d79-6cbb6139ae64)
-![image](https://github.com/user-attachments/assets/b1ca2256-9765-4b7b-91f3-9bc92ab83612)
+![image](https://github.com/user-attachments/assets/c38800bf-31dc-4fe0-adef-54cd8daba5c0)
+![image](https://github.com/user-attachments/assets/b219addf-d02c-46d5-ad2e-1ffaca7ab531)
+![image](https://github.com/user-attachments/assets/7c02b82e-88d5-4628-ba28-8eaf61f5c742)
 
 ## Краткий вывод:
 
@@ -356,7 +356,8 @@ while " world" not in string:
 
 ### Результат
 
-![image](https://github.com/user-attachments/assets/b11e2e06-0375-4bec-a172-a916cb089674)
+![image](https://github.com/user-attachments/assets/7f618667-4494-42c9-945f-d2668fde187c)
+
 
 
 ## Краткий вывод:
