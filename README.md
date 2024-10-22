@@ -97,8 +97,8 @@ with open("input.txt", "w") as f:
 ```
 ### Результат
 ![image](https://github.com/user-attachments/assets/0c6789d7-b21f-4695-bbde-9118fb848079)
-![image](https://github.com/user-attachments/assets/d34ebe69-6f8d-4cc0-ac5d-d2f5f1b842bf)
-![image](https://github.com/user-attachments/assets/0c6789d7-b21f-4695-bbde-9118fb848079)
+![image](https://github.com/user-attachments/assets/dbb9f5ec-1be9-42c1-a8ca-601eab85bbe1)
+
 
 ## Лабораторная работа 8
  ```python
@@ -117,7 +117,9 @@ print_docs("C:/Users/user/Desktop/3курс/инженерия")
 
 ```
 ### Результат
-![image](https://github.com/user-attachments/assets/4ac57d35-4471-4f24-b902-c0229a824c5f)
+![image](https://github.com/user-attachments/assets/d34ebe69-6f8d-4cc0-ac5d-d2f5f1b842bf)
+
+
 
 
 ## Лабораторная работа 9
@@ -139,7 +141,8 @@ print(longest_words("input.txt"))
 
 ```
 ### Результат
-![image](https://github.com/user-attachments/assets/14760cce-01f0-453a-95ac-f2feeba6552b)
+![image](https://github.com/user-attachments/assets/4ac57d35-4471-4f24-b902-c0229a824c5f)
+
 
 
 ## Лабораторная работа 10
@@ -156,7 +159,8 @@ with open("rows_300.csv", "w", encoding="utf-8", newline="") as f:
 
 ```
 ### Результат
-![image](https://github.com/user-attachments/assets/8f14c627-7db2-400b-816a-3c88723e7a1d)
+![image](https://github.com/user-attachments/assets/14760cce-01f0-453a-95ac-f2feeba6552b)
+
 
 
 # Самостоятельные работы
@@ -198,7 +202,7 @@ with open("input.txt", "r", encoding="utf-8") as f:
 
 ```
 ### Результат
-
+![image](https://github.com/user-attachments/assets/8f14c627-7db2-400b-816a-3c88723e7a1d)
 ![image](https://github.com/user-attachments/assets/d3c07f30-4f59-4929-8821-4885d593045c)
 ![image](https://github.com/user-attachments/assets/728f4d17-98d6-45e5-b09c-4cc533fd9e30)
 
