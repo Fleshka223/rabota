@@ -204,7 +204,6 @@ with open("input.txt", "r", encoding="utf-8") as f:
 ### Результат
 ![image](https://github.com/user-attachments/assets/8f14c627-7db2-400b-816a-3c88723e7a1d)
 ![image](https://github.com/user-attachments/assets/d3c07f30-4f59-4929-8821-4885d593045c)
-![image](https://github.com/user-attachments/assets/728f4d17-98d6-45e5-b09c-4cc533fd9e30)
 
 
 ## Краткий вывод:
@@ -292,8 +291,9 @@ if __name__ == '__main__':
 ```
 
 ### Результат
+![image](https://github.com/user-attachments/assets/728f4d17-98d6-45e5-b09c-4cc533fd9e30)
 
-![image](https://github.com/user-attachments/assets/f33fffd4-c2d3-4fa6-8fcf-b9e6ca22025a)
+
 
 ## Краткий вывод:
   В программе реализуются две функции: первая для записи расходов, вторая для получения расходов за определённый день. Изначально имеется текстовый файл, в котором в первой строке указана сумма денег, доступная для расходов. При запуске программы пользователю предлагается выбрать, хочет ли он записать расходы или узнать информацию о них.
@@ -321,8 +321,8 @@ with open("input.txt", "r") as file:
 ```
 
 ### Результат
+![image](https://github.com/user-attachments/assets/f33fffd4-c2d3-4fa6-8fcf-b9e6ca22025a)
 
-![image](https://github.com/user-attachments/assets/b344977d-9991-43ee-92e4-1fd8f2d84d12)
 
 ## Краткий вывод:
   В программе сначала открывается файл, после чего создаются переменные для подсчёта количества символов, слов и строк. Число строк определяется сразу, основываясь на длине списка, где каждая строка представлена отдельным элементом. 
@@ -359,8 +359,8 @@ with open("input.txt", "r") as file:
 ```
 
 ### Результаты
+![image](https://github.com/user-attachments/assets/b344977d-9991-43ee-92e4-1fd8f2d84d12)
 
-![image](https://github.com/user-attachments/assets/c60dcf03-63d9-41b9-bf87-c433aa99fd89)
 
 
 ## Краткий вывод:
@@ -400,7 +400,7 @@ if __name__ == "__main__":
 
 ![image](https://github.com/user-attachments/assets/f442587b-636e-4008-8b01-723bc76fb3ab)
 ![image](https://github.com/user-attachments/assets/bf9498a4-551d-4d39-abc5-38ca41409d23)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c60dcf03-63d9-41b9-bf87-c433aa99fd89)
 
 
 ## Краткий вывод:
