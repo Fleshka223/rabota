@@ -98,7 +98,7 @@ with open("input.txt", "w") as f:
 ### Результат
 ![image](https://github.com/user-attachments/assets/0c6789d7-b21f-4695-bbde-9118fb848079)
 ![image](https://github.com/user-attachments/assets/d34ebe69-6f8d-4cc0-ac5d-d2f5f1b842bf)
-
+![image](https://github.com/user-attachments/assets/0c6789d7-b21f-4695-bbde-9118fb848079)
 
 ## Лабораторная работа 8
  ```python
