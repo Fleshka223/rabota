@@ -52,7 +52,8 @@ if __name__ == '__main__':
 
 ### Результат
 
-![Меню](https://github.com/lEnityl/labs/blob/Tema_11/lab11/l2.png)
+![image](https://github.com/user-attachments/assets/ed936b77-90fc-4713-86c6-08a18caa88b4)
+
 
 ## Лабараторная работа 3
 
